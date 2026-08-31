@@ -19,7 +19,7 @@ public class NumbersArray {
         System.out.println("Unique numbers : " + Arrays.toString(findUnique(input))); 
     }
 
-    // Write your methods here
+    // Write your methods here!
 
     public static int findMax(Integer[] input) {
         int currentMax = Integer.MIN_VALUE;
