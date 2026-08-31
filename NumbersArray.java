@@ -21,7 +21,7 @@ public class NumbersArray {
 
     // Write your methods here
 
-        public static int findMax(Integer[] input) {
+    public static int findMax(Integer[] input) {
         int currentMax = Integer.MIN_VALUE;
         
         for (Integer i : input) {
